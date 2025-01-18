@@ -1,4 +1,4 @@
-Hi 👋 My name is Jean-Paul
+Hi, I'm Jean-Paul
 ==========================
 
 A recent software engineering graduate with software development experience.
