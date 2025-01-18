@@ -7,6 +7,7 @@ A recent software engineering graduate with software development experience.
 I am a dedicated and passionate Software Engineer. I have hands-on experience in developing, testing, and debugging software applications and optimizing systems for performance and reliability. I possess thorough technical experience across numerous key projects focused on full-stack web development, mobile development and cloud computing. I am highly effective in a collaborative environment and can communicate effectively in a team. I am also a problem solver and a critical thinker, providing innovative solutions to complex challenges while ensuring efficiency and reliability in every project I undertake.
 
 * 🌍  I'm based in Toronto
+* 🖥️  See my portfolio at [MyPortfolio](http://jean-paulsaliba.com)
 * ✉️  You can contact me at [jeanpaul.saliba@ontariotechu.net](mailto:jeanpaul.saliba@ontariotechu.net)
 
 ### Skills
